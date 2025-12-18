@@ -47,6 +47,13 @@
         "name": "Adelaide, SA, Australia",
         "region": "Oceania"
     },
+    "AGR": {
+        "cca2": "IN",
+        "city": "Agra",
+        "country": "India",
+        "name": "Agra, India",
+        "region": "Asia"
+    },
     "AKL": {
         "cca2": "NZ",
         "city": "Auckland",
