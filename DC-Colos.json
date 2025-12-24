@@ -459,6 +459,13 @@
         "name": "Christchurch, New Zealand",
         "region": "Oceania"
     },
+    "CJB": {
+        "cca2": "IN",
+        "city": "Coimbatore",
+        "country": "India",
+        "name": "Coimbatore, India",
+        "region": "Asia"
+    },
     "CKG": {
         "cca2": "CN",
         "city": "Chongqing",
