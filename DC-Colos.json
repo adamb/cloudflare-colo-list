@@ -14,9 +14,9 @@
     },
     "ABQ": {
         "cca2": "US",
-        "city": "Albuquerque",
+        "city": "Albuquerque, NM",
         "country": "United States",
-        "name": "Albuquerque, United States",
+        "name": "Albuquerque, NM, United States",
         "region": "North America"
     },
     "ACC": {
@@ -105,9 +105,9 @@
     },
     "ANC": {
         "cca2": "US",
-        "city": "Anchorage",
+        "city": "Anchorage, AK",
         "country": "United States",
-        "name": "Anchorage, United States",
+        "name": "Anchorage, AK, United States",
         "region": "North America"
     },
     "ARI": {
@@ -160,9 +160,9 @@
     },
     "AUS": {
         "cca2": "US",
-        "city": "Austin",
+        "city": "Austin, TX",
         "country": "United States",
-        "name": "Austin, United States",
+        "name": "Austin, TX, United States",
         "region": "North America"
     },
     "BAH": {
@@ -216,9 +216,9 @@
     },
     "BGR": {
         "cca2": "US",
-        "city": "Bangor",
+        "city": "Bangor, ME",
         "country": "United States",
-        "name": "Bangor, United States",
+        "name": "Bangor, ME, United States",
         "region": "North America"
     },
     "BGW": {
@@ -475,9 +475,9 @@
     },
     "CLE": {
         "cca2": "US",
-        "city": "Cleveland",
+        "city": "Cleveland, OH",
         "country": "United States",
-        "name": "Cleveland, United States",
+        "name": "Cleveland, OH, United States",
         "region": "North America"
     },
     "CLO": {
@@ -1581,9 +1581,9 @@
     },
     "OKC": {
         "cca2": "US",
-        "city": "Oklahoma City",
+        "city": "Oklahoma City, OK",
         "country": "United States",
-        "name": "Oklahoma City, United States",
+        "name": "Oklahoma City, OK, United States",
         "region": "North America"
     },
     "OMA": {
@@ -1775,9 +1775,9 @@
     },
     "RDU": {
         "cca2": "US",
-        "city": "Durham",
+        "city": "Durham, NC",
         "country": "United States",
-        "name": "Durham, United States",
+        "name": "Durham, NC, United States",
         "region": "North America"
     },
     "REC": {
@@ -1830,9 +1830,9 @@
     },
     "SAT": {
         "cca2": "US",
-        "city": "San Antonio",
+        "city": "San Antonio, TX",
         "country": "United States",
-        "name": "San Antonio, United States",
+        "name": "San Antonio, TX, United States",
         "region": "North America"
     },
     "SCL": {
@@ -1858,9 +1858,9 @@
     },
     "SFO": {
         "cca2": "US",
-        "city": "San Francisco",
+        "city": "San Francisco, CA",
         "country": "United States",
-        "name": "San Francisco, United States",
+        "name": "San Francisco, CA, United States",
         "region": "North America"
     },
     "SGN": {
@@ -2089,9 +2089,9 @@
     },
     "TPA": {
         "cca2": "US",
-        "city": "Tampa",
+        "city": "Tampa, FL",
         "country": "United States",
-        "name": "Tampa, United States",
+        "name": "Tampa, FL, United States",
         "region": "North America"
     },
     "TPE": {
