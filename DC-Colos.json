@@ -1309,6 +1309,13 @@
         "name": "Lisbon, Portugal",
         "region": "Europe"
     },
+    "LJU": {
+        "cca2": "SI",
+        "city": "Ljubljana",
+        "country": "Slovenia",
+        "name": "Ljubljana, Slovenia",
+        "region": "Europe"
+    },
     "LLK": {
         "cca2": "AZ",
         "city": "Astara",
