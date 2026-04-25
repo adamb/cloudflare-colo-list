@@ -1740,6 +1740,13 @@
         "name": "Phnom Penh, Cambodia",
         "region": "Asia"
     },
+    "PNQ": {
+        "cca2": "IN",
+        "city": "Pune",
+        "country": "India",
+        "name": "Pune, India",
+        "region": "Asia"
+    },
     "POA": {
         "cca2": "BR",
         "city": "Porto Alegre",
