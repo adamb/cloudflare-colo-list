@@ -293,9 +293,9 @@
     },
     "BOG": {
         "cca2": "CO",
-        "city": "Bogota",
+        "city": "Bogotá",
         "country": "Colombia",
-        "name": "Bogota, Colombia",
+        "name": "Bogotá, Colombia",
         "region": "Latin America & the Caribbean"
     },
     "BOM": {
@@ -412,9 +412,9 @@
     },
     "CFC": {
         "cca2": "BR",
-        "city": "Cacador",
+        "city": "Caçador",
         "country": "Brazil",
-        "name": "Cacador, Brazil",
+        "name": "Caçador, Brazil",
         "region": "Latin America & the Caribbean"
     },
     "CGB": {
@@ -622,9 +622,9 @@
     },
     "DAR": {
         "cca2": "TZ",
-        "city": "Dar es Salaam",
+        "city": "Dar Es Salaam",
         "country": "Tanzania",
-        "name": "Dar es Salaam, Tanzania",
+        "name": "Dar Es Salaam, Tanzania",
         "region": "Africa"
     },
     "DEL": {
@@ -915,16 +915,16 @@
     },
     "GYN": {
         "cca2": "BR",
-        "city": "Goiania",
+        "city": "Goiânia",
         "country": "Brazil",
-        "name": "Goiania, Brazil",
+        "name": "Goiânia, Brazil",
         "region": "Latin America & the Caribbean"
     },
     "HAK": {
         "cca2": "CN",
-        "city": "Chengmai",
+        "city": "Haikou",
         "country": "China",
-        "name": "Chengmai, China",
+        "name": "Haikou, China",
         "region": "Asia"
     },
     "HAM": {
@@ -1087,9 +1087,9 @@
     },
     "JIB": {
         "cca2": "DJ",
-        "city": "Djibouti",
+        "city": "Djibouti City",
         "country": "Djibouti",
-        "name": "Djibouti, Djibouti",
+        "name": "Djibouti City, Djibouti",
         "region": "Africa"
     },
     "JNB": {
@@ -1171,9 +1171,9 @@
     },
     "KHN": {
         "cca2": "CN",
-        "city": "Nanchang",
+        "city": "Xinyu",
         "country": "China",
-        "name": "Nanchang, China",
+        "name": "Xinyu, China",
         "region": "Asia"
     },
     "KIN": {
@@ -1462,16 +1462,16 @@
     },
     "MLA": {
         "cca2": "MT",
-        "city": "Valletta",
+        "city": "Santa Venera",
         "country": "Malta",
-        "name": "Valletta, Malta",
+        "name": "Santa Venera, Malta",
         "region": "Europe"
     },
     "MLE": {
         "cca2": "MV",
-        "city": "Male",
+        "city": "Malé",
         "country": "Maldives",
-        "name": "Male, Maldives",
+        "name": "Malé, Maldives",
         "region": "Asia"
     },
     "MLG": {
@@ -1567,9 +1567,9 @@
     },
     "NQN": {
         "cca2": "AR",
-        "city": "Neuquen",
+        "city": "Neuquén",
         "country": "Argentina",
-        "name": "Neuquen, Argentina",
+        "name": "Neuquén, Argentina",
         "region": "Latin America & the Caribbean"
     },
     "NQZ": {
@@ -1588,9 +1588,9 @@
     },
     "NVT": {
         "cca2": "BR",
-        "city": "Timbo",
+        "city": "Timbó",
         "country": "Brazil",
-        "name": "Timbo, Brazil",
+        "name": "Timbó, Brazil",
         "region": "Latin America & the Caribbean"
     },
     "OKA": {
@@ -1949,9 +1949,9 @@
     },
     "SJW": {
         "cca2": "CN",
-        "city": "Shijiazhuang",
+        "city": "Hengshui",
         "country": "China",
-        "name": "Shijiazhuang, China",
+        "name": "Hengshui, China",
         "region": "Asia"
     },
     "SKG": {
@@ -2103,9 +2103,9 @@
     },
     "TNA": {
         "cca2": "CN",
-        "city": "Zibo",
+        "city": "Jinan",
         "country": "China",
-        "name": "Zibo, China",
+        "name": "Jinan, China",
         "region": "Asia"
     },
     "TNR": {
@@ -2149,9 +2149,9 @@
     },
     "UDI": {
         "cca2": "BR",
-        "city": "Uberlandia",
+        "city": "Uberlândia",
         "country": "Brazil",
-        "name": "Uberlandia, Brazil",
+        "name": "Uberlândia, Brazil",
         "region": "Latin America & the Caribbean"
     },
     "UIO": {

@@ -41,7 +41,7 @@ KEF,"Reykjavík, Iceland",Europe,Reykjavík,Iceland,IS
 RIX,"Riga, Latvia",Europe,Riga,Latvia,LV
 FCO,"Rome, Italy",Europe,Rome,Italy,IT
 LED,"Saint Petersburg, Russia",Europe,Saint Petersburg,Russia,RU
-MLA,"Valletta, Malta",Europe,Valletta,Malta,MT
+MLA,"Santa Venera, Malta",Europe,Santa Venera,Malta,MT
 SKP,"Skopje, North Macedonia",Europe,Skopje,North Macedonia,MK
 SOF,"Sofia, Bulgaria",Europe,Sofia,Bulgaria,BG
 ARN,"Stockholm, Sweden",Europe,Stockholm,Sweden,SE
@@ -98,17 +98,17 @@ ASU,"Asunción, Paraguay",Latin America & the Caribbean,Asunción,Paraguay,PY
 BEL,"Belém, Brazil",Latin America & the Caribbean,Belém,Brazil,BR
 CNF,"Belo Horizonte, Brazil",Latin America & the Caribbean,Belo Horizonte,Brazil,BR
 BNU,"Blumenau, Brazil",Latin America & the Caribbean,Blumenau,Brazil,BR
-BOG,"Bogota, Colombia",Latin America & the Caribbean,Bogota,Colombia,CO
+BOG,"Bogotá, Colombia",Latin America & the Caribbean,Bogotá,Colombia,CO
 BSB,"Brasilia, Brazil",Latin America & the Caribbean,Brasilia,Brazil,BR
 EZE,"Buenos Aires, Argentina",Latin America & the Caribbean,Buenos Aires,Argentina,AR
-CFC,"Cacador, Brazil",Latin America & the Caribbean,Cacador,Brazil,BR
+CFC,"Caçador, Brazil",Latin America & the Caribbean,Caçador,Brazil,BR
 VCP,"Campinas, Brazil",Latin America & the Caribbean,Campinas,Brazil,BR
 COR,"Córdoba, Argentina",Latin America & the Caribbean,Córdoba,Argentina,AR
 CWB,"Curitiba, Brazil",Latin America & the Caribbean,Curitiba,Brazil,BR
 FLN,"Florianopolis, Brazil",Latin America & the Caribbean,Florianopolis,Brazil,BR
 FOR,"Fortaleza, Brazil",Latin America & the Caribbean,Fortaleza,Brazil,BR
 GEO,"Georgetown, Guyana",Latin America & the Caribbean,Georgetown,Guyana,GY
-GYN,"Goiania, Brazil",Latin America & the Caribbean,Goiania,Brazil,BR
+GYN,"Goiânia, Brazil",Latin America & the Caribbean,Goiânia,Brazil,BR
 GUA,"Guatemala City, Guatemala",Latin America & the Caribbean,Guatemala City,Guatemala,GT
 GYE,"Guayaquil, Ecuador",Latin America & the Caribbean,Guayaquil,Ecuador,EC
 JOI,"Joinville, Brazil",Latin America & the Caribbean,Joinville,Brazil,BR
@@ -116,7 +116,7 @@ JDO,"Juazeiro do Norte, Brazil",Latin America & the Caribbean,Juazeiro do Norte,
 LIM,"Lima, Peru",Latin America & the Caribbean,Lima,Peru,PE
 MAO,"Manaus, Brazil",Latin America & the Caribbean,Manaus,Brazil,BR
 MDE,"Medellín, Colombia",Latin America & the Caribbean,Medellín,Colombia,CO
-NQN,"Neuquen, Argentina",Latin America & the Caribbean,Neuquen,Argentina,AR
+NQN,"Neuquén, Argentina",Latin America & the Caribbean,Neuquén,Argentina,AR
 PTY,"Panama City, Panama",Latin America & the Caribbean,Panama City,Panama,PA
 PBM,"Paramaribo, Suriname",Latin America & the Caribbean,Paramaribo,Suriname,SR
 POA,"Porto Alegre, Brazil",Latin America & the Caribbean,Porto Alegre,Brazil,BR
@@ -132,8 +132,8 @@ SJK,"São José dos Campos, Brazil",Latin America & the Caribbean,São José
 GRU,"São Paulo, Brazil",Latin America & the Caribbean,São Paulo,Brazil,BR
 SOD,"Sorocaba, Brazil",Latin America & the Caribbean,Sorocaba,Brazil,BR
 TGU,"Tegucigalpa, Honduras",Latin America & the Caribbean,Tegucigalpa,Honduras,HN
-NVT,"Timbo, Brazil",Latin America & the Caribbean,Timbo,Brazil,BR
-UDI,"Uberlandia, Brazil",Latin America & the Caribbean,Uberlandia,Brazil,BR
+NVT,"Timbó, Brazil",Latin America & the Caribbean,Timbó,Brazil,BR
+UDI,"Uberlândia, Brazil",Latin America & the Caribbean,Uberlândia,Brazil,BR
 VIX,"Vitoria, Brazil",Latin America & the Caribbean,Vitoria,Brazil,BR
 CAW,"Campos dos Goytacazes, Brazil",Latin America & the Caribbean,Campos dos Goytacazes,Brazil,BR
 XAP,"Chapeco, Brazil",Latin America & the Caribbean,Chapeco,Brazil,BR
@@ -156,8 +156,8 @@ AAE,"Annaba, Algeria",Africa,Annaba,Algeria,DZ
 TNR,"Antananarivo, Madagascar",Africa,Antananarivo,Madagascar,MG
 CPT,"Cape Town, South Africa",Africa,Cape Town,South Africa,ZA
 DKR,"Dakar, Senegal",Africa,Dakar,Senegal,SN
-DAR,"Dar es Salaam, Tanzania",Africa,Dar es Salaam,Tanzania,TZ
-JIB,"Djibouti, Djibouti",Africa,Djibouti,Djibouti,DJ
+DAR,"Dar Es Salaam, Tanzania",Africa,Dar Es Salaam,Tanzania,TZ
+JIB,"Djibouti City, Djibouti",Africa,Djibouti City,Djibouti,DJ
 DUR,"Durban, South Africa",Africa,Durban,South Africa,ZA
 GBE,"Gaborone, Botswana",Africa,Gaborone,Botswana,BW
 HRE,"Harare, Zimbabwe",Africa,Harare,Zimbabwe,ZW
@@ -199,15 +199,15 @@ FUO,"Foshan, China",Asia,Foshan,China,CN
 FUK,"Fukuoka, Japan",Asia,Fukuoka,Japan,JP
 FOC,"Fuzhou, China",Asia,Fuzhou,China,CN
 CAN,"Guangzhou, China",Asia,Guangzhou,China,CN
-HAK,"Chengmai, China",Asia,Chengmai,China,CN
+HAK,"Haikou, China",Asia,Haikou,China,CN
 HAN,"Hanoi, Vietnam",Asia,Hanoi,Vietnam,VN
-SJW,"Shijiazhuang, China",Asia,Shijiazhuang,China,CN
+SJW,"Hengshui, China",Asia,Hengshui,China,CN
 SGN,"Ho Chi Minh City, Vietnam",Asia,Ho Chi Minh City,Vietnam,VN
 HKG,Hong Kong,Asia,,,
 HYD,"Hyderabad, India",Asia,Hyderabad,India,IN
 ISB,"Islamabad, Pakistan",Asia,Islamabad,Pakistan,PK
 CGK,"Jakarta, Indonesia",Asia,Jakarta,Indonesia,ID
-TNA,"Zibo, China",Asia,Zibo,China,CN
+TNA,"Jinan, China",Asia,Jinan,China,CN
 JHB,"Johor Bahru, Malaysia",Asia,Johor Bahru,Malaysia,MY
 KNU,"Kanpur, India",Asia,Kanpur,India,IN
 KHH,"Kaohsiung City, Taiwan",Asia,Kaohsiung City,Taiwan,TW
@@ -218,7 +218,7 @@ KJA,"Krasnoyarsk, Russia",Asia,Krasnoyarsk,Russia,RU
 KUL,"Kuala Lumpur, Malaysia",Asia,Kuala Lumpur,Malaysia,MY
 PKX,"Langfang, China",Asia,Langfang,China,CN
 MFM,Macau,Asia,,,
-MLE,"Male, Maldives",Asia,Male,Maldives,MV
+MLE,"Malé, Maldives",Asia,Malé,Maldives,MV
 MNL,"Manila, Philippines",Asia,Manila,Philippines,PH
 BOM,"Mumbai, India",Asia,Mumbai,India,IN
 NAG,"Nagpur, India",Asia,Nagpur,India,IN
@@ -236,7 +236,7 @@ TPE,Taipei,Asia,,,
 NRT,"Tokyo, Japan",Asia,Tokyo,Japan,JP
 ULN,"Ulaanbaatar, Mongolia",Asia,Ulaanbaatar,Mongolia,MN
 VTE,"Vientiane, Laos",Asia,Vientiane,Laos,LA
-KHN,"Nanchang, China",Asia,Nanchang,China,CN
+KHN,"Xinyu, China",Asia,Xinyu,China,CN
 EVN,"Yerevan, Armenia",Asia,Yerevan,Armenia,AM
 JOG,"Yogyakarta, Indonesia",Asia,Yogyakarta,Indonesia,ID
 CGY,"Cagayan de Oro, Philippines",Asia,Cagayan de Oro,Philippines,PH
