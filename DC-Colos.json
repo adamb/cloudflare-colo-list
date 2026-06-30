@@ -277,13 +277,6 @@
         "name": "Brisbane, QLD, Australia",
         "region": "Oceania"
     },
-    "BNU": {
-        "cca2": "BR",
-        "city": "Blumenau",
-        "country": "Brazil",
-        "name": "Blumenau, Brazil",
-        "region": "Latin America & the Caribbean"
-    },
     "BOD": {
         "cca2": "FR",
         "city": "Bordeaux",
@@ -584,6 +577,13 @@
         "country": "China",
         "name": "Chengdu, China",
         "region": "Asia"
+    },
+    "CVG": {
+        "cca2": "US",
+        "city": "Cincinnati",
+        "country": "United States",
+        "name": "Cincinnati, United States",
+        "region": "North America"
     },
     "CWB": {
         "cca2": "BR",
@@ -1156,10 +1156,7 @@
         "region": "Africa"
     },
     "KHH": {
-        "cca2": "TW",
-        "city": "Kaohsiung City",
-        "country": "Taiwan",
-        "name": "Kaohsiung City, Taiwan",
+        "name": "Kaohsiung City",
         "region": "Asia"
     },
     "KHI": {

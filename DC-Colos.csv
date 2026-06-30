@@ -97,7 +97,6 @@ ARI,"Arica, Chile",Latin America & the Caribbean,Arica,Chile,CL
 ASU,"Asunción, Paraguay",Latin America & the Caribbean,Asunción,Paraguay,PY
 BEL,"Belém, Brazil",Latin America & the Caribbean,Belém,Brazil,BR
 CNF,"Belo Horizonte, Brazil",Latin America & the Caribbean,Belo Horizonte,Brazil,BR
-BNU,"Blumenau, Brazil",Latin America & the Caribbean,Blumenau,Brazil,BR
 BOG,"Bogotá, Colombia",Latin America & the Caribbean,Bogotá,Colombia,CO
 BSB,"Brasilia, Brazil",Latin America & the Caribbean,Brasilia,Brazil,BR
 EZE,"Buenos Aires, Argentina",Latin America & the Caribbean,Buenos Aires,Argentina,AR
@@ -210,7 +209,7 @@ CGK,"Jakarta, Indonesia",Asia,Jakarta,Indonesia,ID
 TNA,"Jinan, China",Asia,Jinan,China,CN
 JHB,"Johor Bahru, Malaysia",Asia,Johor Bahru,Malaysia,MY
 KNU,"Kanpur, India",Asia,Kanpur,India,IN
-KHH,"Kaohsiung City, Taiwan",Asia,Kaohsiung City,Taiwan,TW
+KHH,Kaohsiung City,Asia,,,
 KHI,"Karachi, Pakistan",Asia,Karachi,Pakistan,PK
 KTM,"Kathmandu, Nepal",Asia,Kathmandu,Nepal,NP
 CCU,"Kolkata, India",Asia,Kolkata,India,IN
@@ -336,3 +335,4 @@ TPA,"Tampa, FL, United States",North America,"Tampa, FL",United States,US
 YYZ,"Toronto, ON, Canada",North America,"Toronto, ON",Canada,CA
 YVR,"Vancouver, BC, Canada",North America,"Vancouver, BC",Canada,CA
 YWG,"Winnipeg, MB, Canada",North America,"Winnipeg, MB",Canada,CA
+CVG,"Cincinnati, United States",North America,Cincinnati,United States,US
