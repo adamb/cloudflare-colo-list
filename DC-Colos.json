@@ -655,6 +655,13 @@
         "name": "Dakar, Senegal",
         "region": "Africa"
     },
+    "DLA": {
+        "cca2": "CM",
+        "city": "Douala",
+        "country": "Cameroon",
+        "name": "Douala, Cameroon",
+        "region": "Africa"
+    },
     "DLC": {
         "cca2": "CN",
         "city": "Dalian",
