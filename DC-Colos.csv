@@ -180,7 +180,6 @@ EBB,"Kampala, Uganda",Africa,Kampala,Uganda,UG
 RUN,"Saint-Denis, Réunion",Africa,Saint-Denis,Réunion,
 LUN,"Lusaka, Zambia",Africa,Lusaka,Zambia,ZM
 ADD,"Addis Ababa, Ethiopia",Africa,Addis Ababa,Ethiopia,ET
-LLW,"Lilongwe, Malawi",Africa,Lilongwe,Malawi,MW
 CZL,"Constantine, Algeria",Africa,Constantine,Algeria,DZ
 DLA,"Douala, Cameroon",Africa,Douala,Cameroon,CM
 AMD,"Ahmedabad, India",Asia,Ahmedabad,India,IN
@@ -276,6 +275,7 @@ BBI,"Bhubaneswar, India",Asia,Bhubaneswar,India,IN
 LYA,"Luoyang, China",Asia,Luoyang,China,CN
 PNQ,"Pune, India",Asia,Pune,India,IN
 JRG,"Sambalpur, India",Asia,Sambalpur,India,IN
+AVA,"Anshun, China",Asia,Anshun,China,CN
 ABQ,"Albuquerque, NM, United States",North America,"Albuquerque, NM",United States,US
 ANC,"Anchorage, AK, United States",North America,"Anchorage, AK",United States,US
 IAD,"Ashburn, VA, United States",North America,"Ashburn, VA",United States,US
