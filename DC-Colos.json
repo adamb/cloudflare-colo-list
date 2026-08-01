@@ -207,6 +207,13 @@
         "name": "Barcelona, Spain",
         "region": "Europe"
     },
+    "BDQ": {
+        "cca2": "IN",
+        "city": "Jamnagar",
+        "country": "India",
+        "name": "Jamnagar, India",
+        "region": "Asia"
+    },
     "BEG": {
         "cca2": "RS",
         "city": "Belgrade",
