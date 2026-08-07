@@ -2165,6 +2165,13 @@
         "name": "Uberlândia, Brazil",
         "region": "Latin America & the Caribbean"
     },
+    "UDR": {
+        "cca2": "IN",
+        "city": "Udaipur",
+        "country": "India",
+        "name": "Udaipur, India",
+        "region": "Asia"
+    },
     "UIO": {
         "cca2": "EC",
         "city": "Quito",
