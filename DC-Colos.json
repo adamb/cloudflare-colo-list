@@ -61,6 +61,13 @@
         "name": "Agra, India",
         "region": "Asia"
     },
+    "AIP": {
+        "cca2": "IN",
+        "city": "Jalandhar",
+        "country": "India",
+        "name": "Jalandhar, India",
+        "region": "Asia"
+    },
     "AKL": {
         "cca2": "NZ",
         "city": "Auckland",
