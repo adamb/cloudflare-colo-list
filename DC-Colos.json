@@ -1376,6 +1376,13 @@
         "name": "La Paz, Bolivia",
         "region": "Latin America & the Caribbean"
     },
+    "LUH": {
+        "cca2": "IN",
+        "city": "Ludhiana",
+        "country": "India",
+        "name": "Ludhiana, India",
+        "region": "Asia"
+    },
     "LUN": {
         "cca2": "ZM",
         "city": "Lusaka",
