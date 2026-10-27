@@ -1,6 +1,7 @@
 colo,name,region,city,country,cca2
 AMS,"Amsterdam, Netherlands",Europe,Amsterdam,Netherlands,NL
 ATH,"Athens, Greece",Europe,Athens,Greece,GR
+ALA,"Almaty, Kazakhstan",Europe,Almaty,Kazakhstan,KZ
 BCN,"Barcelona, Spain",Europe,Barcelona,Spain,ES
 BEG,"Belgrade, Serbia",Europe,Belgrade,Serbia,RS
 TXL,"Berlin, Germany",Europe,Berlin,Germany,DE
@@ -36,13 +37,13 @@ LCA,"Nicosia, Cyprus",Europe,Nicosia,Cyprus,CY
 OSL,"Oslo, Norway",Europe,Oslo,Norway,NO
 PMO,"Palermo, Italy",Europe,Palermo,Italy,IT
 CDG,"Paris, France",Europe,Paris,France,FR
-PRG,"Prague, Czech Republic",Europe,Prague,Czech Republic,
+PRG,"Prague, Czechia",Europe,Prague,Czechia,CZ
 KEF,"Reykjavík, Iceland",Europe,Reykjavík,Iceland,IS
 RIX,"Riga, Latvia",Europe,Riga,Latvia,LV
 FCO,"Rome, Italy",Europe,Rome,Italy,IT
 LED,"Saint Petersburg, Russia",Europe,Saint Petersburg,Russia,RU
-MLA,"Santa Venera, Malta",Europe,Santa Venera,Malta,MT
-SKP,"Skopje, North Macedonia",Europe,Skopje,North Macedonia,MK
+MLA,"Valletta, Malta",Europe,Valletta,Malta,MT
+SKP,"Skopje, Macedonia",Europe,Skopje,Macedonia,
 SOF,"Sofia, Bulgaria",Europe,Sofia,Bulgaria,BG
 ARN,"Stockholm, Sweden",Europe,Stockholm,Sweden,SE
 STR,"Stuttgart, Germany",Europe,Stuttgart,Germany,DE
@@ -58,6 +59,7 @@ ZAG,"Zagreb, Croatia",Europe,Zagreb,Croatia,HR
 ZRH,"Zurich, Switzerland",Europe,Zurich,Switzerland,CH
 LJU,"Ljubljana, Slovenia",Europe,Ljubljana,Slovenia,SI
 PRN,"Prishtine , Kosovo",Europe,Prishtine ,Kosovo,
+AKX,"Aktobe, Kazakhstan",Europe,Aktobe,Kazakhstan,KZ
 AMM,"Amman, Jordan",Middle East,Amman,Jordan,JO
 LLK,"Astara, Azerbaijan",Middle East,Astara,Azerbaijan,AZ
 BGW,"Baghdad, Iraq",Middle East,Baghdad,Iraq,IQ
@@ -79,16 +81,16 @@ ZDM,Ramallah,Middle East,,,
 RUH,"Riyadh, Saudi Arabia",Middle East,Riyadh,Saudi Arabia,SA
 ISU,"Sulaymaniyah, Iraq",Middle East,Sulaymaniyah,Iraq,IQ
 TLV,"Tel Aviv, Israel",Middle East,Tel Aviv,Israel,IL
-ADL,"Adelaide, SA, Australia",Oceania,"Adelaide, SA",Australia,AU
+EVN,"Yerevan, Armenia",Middle East,Yerevan,Armenia,AM
+ADL,"Adelaide, Australia",Oceania,Adelaide,Australia,AU
 AKL,"Auckland, New Zealand",Oceania,Auckland,New Zealand,NZ
-BNE,"Brisbane, QLD, Australia",Oceania,"Brisbane, QLD",Australia,AU
-CBR,"Canberra, ACT, Australia",Oceania,"Canberra, ACT",Australia,AU
+BNE,"Brisbane, Australia",Oceania,Brisbane,Australia,AU
+CBR,"Canberra, Australia",Oceania,Canberra,Australia,AU
 CHC,"Christchurch, New Zealand",Oceania,Christchurch,New Zealand,NZ
-GUM,"Hagatna, Guam",Oceania,Hagatna,Guam,GU
-MEL,"Melbourne, VIC, Australia",Oceania,"Melbourne, VIC",Australia,AU
+MEL,"Melbourne, Australia",Oceania,Melbourne,Australia,AU
 NOU,"Noumea, New Caledonia",Oceania,Noumea,New Caledonia,NC
-PER,"Perth, WA, Australia",Oceania,"Perth, WA",Australia,AU
-SYD,"Sydney, NSW, Australia",Oceania,"Sydney, NSW",Australia,AU
+PER,"Perth, Australia",Oceania,Perth,Australia,AU
+SYD,"Sydney, Australia",Oceania,Sydney,Australia,AU
 PPT,"Tahiti, French Polynesia",Oceania,Tahiti,French Polynesia,PF
 SUV,"Suva, Fiji",Oceania,Suva,Fiji,FJ
 HBA,"Hobart, Australia",Oceania,Hobart,Australia,AU
@@ -101,22 +103,21 @@ CNF,"Belo Horizonte, Brazil",Latin America & the Caribbean,Belo Horizonte,Brazil
 BOG,"Bogotá, Colombia",Latin America & the Caribbean,Bogotá,Colombia,CO
 BSB,"Brasilia, Brazil",Latin America & the Caribbean,Brasilia,Brazil,BR
 EZE,"Buenos Aires, Argentina",Latin America & the Caribbean,Buenos Aires,Argentina,AR
-CFC,"Caçador, Brazil",Latin America & the Caribbean,Caçador,Brazil,BR
+CFC,"Cacador, Brazil",Latin America & the Caribbean,Cacador,Brazil,BR
 VCP,"Campinas, Brazil",Latin America & the Caribbean,Campinas,Brazil,BR
 COR,"Córdoba, Argentina",Latin America & the Caribbean,Córdoba,Argentina,AR
 CWB,"Curitiba, Brazil",Latin America & the Caribbean,Curitiba,Brazil,BR
 FLN,"Florianopolis, Brazil",Latin America & the Caribbean,Florianopolis,Brazil,BR
 FOR,"Fortaleza, Brazil",Latin America & the Caribbean,Fortaleza,Brazil,BR
 GEO,"Georgetown, Guyana",Latin America & the Caribbean,Georgetown,Guyana,GY
-GYN,"Goiânia, Brazil",Latin America & the Caribbean,Goiânia,Brazil,BR
-GUA,"Guatemala City, Guatemala",Latin America & the Caribbean,Guatemala City,Guatemala,GT
+GYN,"Goiania, Brazil",Latin America & the Caribbean,Goiania,Brazil,BR
 GYE,"Guayaquil, Ecuador",Latin America & the Caribbean,Guayaquil,Ecuador,EC
 JOI,"Joinville, Brazil",Latin America & the Caribbean,Joinville,Brazil,BR
 JDO,"Juazeiro do Norte, Brazil",Latin America & the Caribbean,Juazeiro do Norte,Brazil,BR
 LIM,"Lima, Peru",Latin America & the Caribbean,Lima,Peru,PE
 MAO,"Manaus, Brazil",Latin America & the Caribbean,Manaus,Brazil,BR
 MDE,"Medellín, Colombia",Latin America & the Caribbean,Medellín,Colombia,CO
-NQN,"Neuquén, Argentina",Latin America & the Caribbean,Neuquén,Argentina,AR
+NQN,"Neuquen, Argentina",Latin America & the Caribbean,Neuquen,Argentina,AR
 PTY,"Panama City, Panama",Latin America & the Caribbean,Panama City,Panama,PA
 PBM,"Paramaribo, Suriname",Latin America & the Caribbean,Paramaribo,Suriname,SR
 POA,"Porto Alegre, Brazil",Latin America & the Caribbean,Porto Alegre,Brazil,BR
@@ -126,26 +127,22 @@ RAO,"Ribeirao Preto, Brazil",Latin America & the Caribbean,Ribeirao Preto,Brazil
 GIG,"Rio de Janeiro, Brazil",Latin America & the Caribbean,Rio de Janeiro,Brazil,BR
 SJO,"San José, Costa Rica",Latin America & the Caribbean,San José,Costa Rica,CR
 SCL,"Santiago, Chile",Latin America & the Caribbean,Santiago,Chile,CL
-SDQ,"Santo Domingo, Dominican Republic",Latin America & the Caribbean,Santo Domingo,Dominican Republic,DO
 SJP,"São José do Rio Preto, Brazil",Latin America & the Caribbean,São José do Rio Preto,Brazil,BR
 SJK,"São José dos Campos, Brazil",Latin America & the Caribbean,São José dos Campos,Brazil,BR
 GRU,"São Paulo, Brazil",Latin America & the Caribbean,São Paulo,Brazil,BR
 SOD,"Sorocaba, Brazil",Latin America & the Caribbean,Sorocaba,Brazil,BR
 TGU,"Tegucigalpa, Honduras",Latin America & the Caribbean,Tegucigalpa,Honduras,HN
-NVT,"Timbó, Brazil",Latin America & the Caribbean,Timbó,Brazil,BR
-UDI,"Uberlândia, Brazil",Latin America & the Caribbean,Uberlândia,Brazil,BR
+NVT,"Timbo, Brazil",Latin America & the Caribbean,Timbo,Brazil,BR
+UDI,"Uberlandia, Brazil",Latin America & the Caribbean,Uberlandia,Brazil,BR
 VIX,"Vitoria, Brazil",Latin America & the Caribbean,Vitoria,Brazil,BR
 CAW,"Campos dos Goytacazes, Brazil",Latin America & the Caribbean,Campos dos Goytacazes,Brazil,BR
 XAP,"Chapeco, Brazil",Latin America & the Caribbean,Chapeco,Brazil,BR
-BGI,"Bridgetown, Barbados",Latin America & the Caribbean,Bridgetown,Barbados,BB
 GND,"St. George's, Grenada",Latin America & the Caribbean,St. George's,Grenada,GD
-STI,"Santiago de los Caballeros, Dominican Republic",Latin America & the Caribbean,Santiago de los Caballeros,Dominican Republic,DO
 LPB,"La Paz, Bolivia",Latin America & the Caribbean,La Paz,Bolivia,BO
-SJU,"San Juan, Puerto Rico",Latin America & the Caribbean,San Juan,Puerto Rico,PR
 BAQ,"Barranquilla, Colombia",Latin America & the Caribbean,Barranquilla,Colombia,CO
 PMW,"Palmas, Brazil",Latin America & the Caribbean,Palmas,Brazil,BR
 ARU,"Aracatuba, Brazil",Latin America & the Caribbean,Aracatuba,Brazil,BR
-POS,"Port of Spain, Trinidad and Tobago",Latin America & the Caribbean,Port of Spain,Trinidad and Tobago,
+POS,"Port of Spain, Trinidad & Tobago",Latin America & the Caribbean,Port of Spain,Trinidad & Tobago,TT
 SSA,"Salvador, Brazil",Latin America & the Caribbean,Salvador,Brazil,BR
 CGB,"Cuiaba, Brazil",Latin America & the Caribbean,Cuiaba,Brazil,BR
 CLO,"Cali, Colombia",Latin America & the Caribbean,Cali,Colombia,CO
@@ -156,8 +153,8 @@ AAE,"Annaba, Algeria",Africa,Annaba,Algeria,DZ
 TNR,"Antananarivo, Madagascar",Africa,Antananarivo,Madagascar,MG
 CPT,"Cape Town, South Africa",Africa,Cape Town,South Africa,ZA
 DKR,"Dakar, Senegal",Africa,Dakar,Senegal,SN
-DAR,"Dar Es Salaam, Tanzania",Africa,Dar Es Salaam,Tanzania,TZ
-JIB,"Djibouti City, Djibouti",Africa,Djibouti City,Djibouti,DJ
+DAR,"Dar es Salaam, Tanzania",Africa,Dar es Salaam,Tanzania,TZ
+JIB,"Djibouti, Djibouti",Africa,Djibouti,Djibouti,DJ
 DUR,"Durban, South Africa",Africa,Durban,South Africa,ZA
 GBE,"Gaborone, Botswana",Africa,Gaborone,Botswana,BW
 HRE,"Harare, Zimbabwe",Africa,Harare,Zimbabwe,ZW
@@ -174,8 +171,8 @@ MRU,"Port Louis, Mauritius",Africa,Port Louis,Mauritius,MU
 TUN,"Tunis, Tunisia",Africa,Tunis,Tunisia,TN
 CAI,"Cairo, Egypt",Africa,Cairo,Egypt,EG
 WDH,"Windhoek, Namibia",Africa,Windhoek,Namibia,NA
-ASK,"Yamoussoukro, Ivory Coast",Africa,Yamoussoukro,Ivory Coast,
-ABJ,"Abidjan, Ivory Coast",Africa,Abidjan,Ivory Coast,
+ASK,"Yamoussoukro, Côte d’Ivoire",Africa,Yamoussoukro,Côte d’Ivoire,
+ABJ,"Abidjan, Côte d’Ivoire",Africa,Abidjan,Côte d’Ivoire,
 EBB,"Kampala, Uganda",Africa,Kampala,Uganda,UG
 RUN,"Saint-Denis, Réunion",Africa,Saint-Denis,Réunion,
 LUN,"Lusaka, Zambia",Africa,Lusaka,Zambia,ZM
@@ -184,10 +181,10 @@ CZL,"Constantine, Algeria",Africa,Constantine,Algeria,DZ
 DLA,"Douala, Cameroon",Africa,Douala,Cameroon,CM
 LLW,"Lilongwe, Malawi",Africa,Lilongwe,Malawi,MW
 AMD,"Ahmedabad, India",Asia,Ahmedabad,India,IN
-ALA,"Almaty, Kazakhstan",Asia,Almaty,Kazakhstan,KZ
 BLR,"Bangalore, India",Asia,Bangalore,India,IN
 BKK,"Bangkok, Thailand",Asia,Bangkok,Thailand,TH
 BWN,"Bandar Seri Begawan, Brunei",Asia,Bandar Seri Begawan,Brunei,BN
+GUM,"Hagatna, Guam",Asia,Hagatna,Guam,GU
 CEB,"Cebu, Philippines",Asia,Cebu,Philippines,PH
 IXC,"Chandigarh, India",Asia,Chandigarh,India,IN
 CGD,"Changde, China",Asia,Changde,China,CN
@@ -199,7 +196,7 @@ FUO,"Foshan, China",Asia,Foshan,China,CN
 FUK,"Fukuoka, Japan",Asia,Fukuoka,Japan,JP
 FOC,"Fuzhou, China",Asia,Fuzhou,China,CN
 CAN,"Guangzhou, China",Asia,Guangzhou,China,CN
-HAK,"Haikou, China",Asia,Haikou,China,CN
+HAK,"Chengmai, China",Asia,Chengmai,China,CN
 HAN,"Hanoi, Vietnam",Asia,Hanoi,Vietnam,VN
 SJW,"Hengshui, China",Asia,Hengshui,China,CN
 SGN,"Ho Chi Minh City, Vietnam",Asia,Ho Chi Minh City,Vietnam,VN
@@ -215,9 +212,9 @@ KHI,"Karachi, Pakistan",Asia,Karachi,Pakistan,PK
 KTM,"Kathmandu, Nepal",Asia,Kathmandu,Nepal,NP
 CCU,"Kolkata, India",Asia,Kolkata,India,IN
 KUL,"Kuala Lumpur, Malaysia",Asia,Kuala Lumpur,Malaysia,MY
-PKX,"Langfang, China",Asia,Langfang,China,CN
+PKX,"Beijing, China",Asia,Beijing,China,CN
 MFM,Macau,Asia,,,
-MLE,"Malé, Maldives",Asia,Malé,Maldives,MV
+MLE,"Male, Maldives",Asia,Male,Maldives,MV
 MNL,"Manila, Philippines",Asia,Manila,Philippines,PH
 BOM,"Mumbai, India",Asia,Mumbai,India,IN
 NAG,"Nagpur, India",Asia,Nagpur,India,IN
@@ -235,8 +232,7 @@ TPE,Taipei,Asia,,,
 NRT,"Tokyo, Japan",Asia,Tokyo,Japan,JP
 ULN,"Ulaanbaatar, Mongolia",Asia,Ulaanbaatar,Mongolia,MN
 VTE,"Vientiane, Laos",Asia,Vientiane,Laos,LA
-KHN,"Xinyu, China",Asia,Xinyu,China,CN
-EVN,"Yerevan, Armenia",Asia,Yerevan,Armenia,AM
+KHN,"Nanchang, China",Asia,Nanchang,China,CN
 JOG,"Yogyakarta, Indonesia",Asia,Yogyakarta,Indonesia,ID
 CGY,"Cagayan de Oro, Philippines",Asia,Cagayan de Oro,Philippines,PH
 COK,"Kochi, India",Asia,Kochi,India,IN
@@ -260,7 +256,6 @@ CRK,"Tarlac City, Philippines",Asia,Tarlac City,Philippines,PH
 PBH,"Thimphu, Bhutan",Asia,Thimphu,Bhutan,BT
 XIY,"Baoji, China",Asia,Baoji,China,CN
 KCH,"Kuching, Malaysia",Asia,Kuching,Malaysia,MY
-AKX,"Aktobe, Kazakhstan",Asia,Aktobe,Kazakhstan,KZ
 TEN,"Tongren, China",Asia,Tongren,China,CN
 HYN,"Taizhou, China",Asia,Taizhou,China,CN
 FRU,"Bishkek, Kyrgyzstan",Asia,Bishkek,Kyrgyzstan,KG
@@ -282,61 +277,66 @@ AIP,"Jalandhar, India",Asia,Jalandhar,India,IN
 LHW,"Lanzhou, China",Asia,Lanzhou,China,CN
 DYU,"Dushanbe, Tajikistan",Asia,Dushanbe,Tajikistan,TJ
 LUH,"Ludhiana, India",Asia,Ludhiana,India,IN
-ABQ,"Albuquerque, NM, United States",North America,"Albuquerque, NM",United States,US
-ANC,"Anchorage, AK, United States",North America,"Anchorage, AK",United States,US
-IAD,"Ashburn, VA, United States",North America,"Ashburn, VA",United States,US
-ATL,"Atlanta, GA, United States",North America,"Atlanta, GA",United States,US
-AUS,"Austin, TX, United States",North America,"Austin, TX",United States,US
-BGR,"Bangor, ME, United States",North America,"Bangor, ME",United States,US
-BOS,"Boston, MA, United States",North America,"Boston, MA",United States,US
-YYC,"Calgary, AB, Canada",North America,"Calgary, AB",Canada,CA
-CLT,"Charlotte, NC, United States",North America,"Charlotte, NC",United States,US
-ORD,"Chicago, IL, United States",North America,"Chicago, IL",United States,US
-CLE,"Cleveland, OH, United States",North America,"Cleveland, OH",United States,US
-CMH,"Columbus, OH, United States",North America,"Columbus, OH",United States,US
-DFW,"Dallas, TX, United States",North America,"Dallas, TX",United States,US
-DEN,"Denver, CO, United States",North America,"Denver, CO",United States,US
-DTW,"Detroit, MI, United States",North America,"Detroit, MI",United States,US
-RDU,"Durham, NC, United States",North America,"Durham, NC",United States,US
+ABQ,"Albuquerque, United States",North America,Albuquerque,United States,US
+ANC,"Anchorage, United States",North America,Anchorage,United States,US
+IAD,"Ashburn, United States",North America,Ashburn,United States,US
+ATL,"Atlanta, United States",North America,Atlanta,United States,US
+AUS,"Austin, United States",North America,Austin,United States,US
+BGR,"Bangor, United States",North America,Bangor,United States,US
+BOS,"Boston, United States",North America,Boston,United States,US
+YYC,"Calgary, Canada",North America,Calgary,Canada,CA
+CLT,"Charlotte, United States",North America,Charlotte,United States,US
+ORD,"Chicago, United States",North America,Chicago,United States,US
+CLE,"Cleveland, United States",North America,Cleveland,United States,US
+CMH,"Columbus, United States",North America,Columbus,United States,US
+DFW,"Dallas, United States",North America,Dallas,United States,US
+DEN,"Denver, United States",North America,Denver,United States,US
+DTW,"Detroit, United States",North America,Detroit,United States,US
+RDU,"Durham, United States",North America,Durham,United States,US
 GDL,"Guadalajara, Mexico",North America,Guadalajara,Mexico,MX
 YHZ,"Halifax, Canada",North America,Halifax,Canada,CA
-HNL,"Honolulu, HI, United States",North America,"Honolulu, HI",United States,US
-IAH,"Houston, TX, United States",North America,"Houston, TX",United States,US
-IND,"Indianapolis, IN, United States",North America,"Indianapolis, IN",United States,US
-JAX,"Jacksonville, FL, United States",North America,"Jacksonville, FL",United States,US
-MCI,"Kansas City, MO, United States",North America,"Kansas City, MO",United States,US
+GUA,"Guatemala City, Guatemala",North America,Guatemala City,Guatemala,GT
+HNL,"Honolulu, United States",North America,Honolulu,United States,US
+IAH,"Houston, United States",North America,Houston,United States,US
+IND,"Indianapolis, United States",North America,Indianapolis,United States,US
+JAX,"Jacksonville, United States",North America,Jacksonville,United States,US
+MCI,"Kansas City, United States",North America,Kansas City,United States,US
 KIN,"Kingston, Jamaica",North America,Kingston,Jamaica,JM
-LAS,"Las Vegas, NV, United States",North America,"Las Vegas, NV",United States,US
-LAX,"Los Angeles, CA, United States",North America,"Los Angeles, CA",United States,US
-MEM,"Memphis, TN, United States",North America,"Memphis, TN",United States,US
+LAS,"Las Vegas, United States",North America,Las Vegas,United States,US
+LAX,"Los Angeles, United States",North America,Los Angeles,United States,US
+MEM,"Memphis, United States",North America,Memphis,United States,US
 MEX,"Mexico City, Mexico",North America,Mexico City,Mexico,MX
-MIA,"Miami, FL, United States",North America,"Miami, FL",United States,US
-MSP,"Minneapolis, MN, United States",North America,"Minneapolis, MN",United States,US
-YUL,"Montréal, QC, Canada",North America,"Montréal, QC",Canada,CA
+MIA,"Miami, United States",North America,Miami,United States,US
+MSP,"Minneapolis, United States",North America,Minneapolis,United States,US
+YUL,"Montréal, Canada",North America,Montréal,Canada,CA
 BNA,"Nashville, United States",North America,Nashville,United States,US
-EWR,"Newark, NJ, United States",North America,"Newark, NJ",United States,US
-ORF,"Norfolk, VA, United States",North America,"Norfolk, VA",United States,US
-OKC,"Oklahoma City, OK, United States",North America,"Oklahoma City, OK",United States,US
-OMA,"Omaha, NE, United States",North America,"Omaha, NE",United States,US
+EWR,"Newark, United States",North America,Newark,United States,US
+ORF,"Norfolk, United States",North America,Norfolk,United States,US
+OKC,"Oklahoma City, United States",North America,Oklahoma City,United States,US
+OMA,"Omaha, United States",North America,Omaha,United States,US
 PHL,"Philadelphia, United States",North America,Philadelphia,United States,US
-PHX,"Phoenix, AZ, United States",North America,"Phoenix, AZ",United States,US
-PIT,"Pittsburgh, PA, United States",North America,"Pittsburgh, PA",United States,US
-PDX,"Portland, OR, United States",North America,"Portland, OR",United States,US
-QRO,"Queretaro, MX, Mexico",North America,"Queretaro, MX",Mexico,MX
-RIC,"Richmond, VA, United States",North America,"Richmond, VA",United States,US
-SMF,"Sacramento, CA, United States",North America,"Sacramento, CA",United States,US
-SLC,"Salt Lake City, UT, United States",North America,"Salt Lake City, UT",United States,US
-SAT,"San Antonio, TX, United States",North America,"San Antonio, TX",United States,US
-SAN,"San Diego, CA, United States",North America,"San Diego, CA",United States,US
-SFO,"San Francisco, CA, United States",North America,"San Francisco, CA",United States,US
-SJC,"San Jose, CA, United States",North America,"San Jose, CA",United States,US
-YXE,"Saskatoon, SK, Canada",North America,"Saskatoon, SK",Canada,CA
-SEA,"Seattle, WA, United States",North America,"Seattle, WA",United States,US
-FSD,"Sioux Falls, SD, United States",North America,"Sioux Falls, SD",United States,US
-STL,"St. Louis, MO, United States",North America,"St. Louis, MO",United States,US
-TLH,"Tallahassee, FL, United States",North America,"Tallahassee, FL",United States,US
-TPA,"Tampa, FL, United States",North America,"Tampa, FL",United States,US
-YYZ,"Toronto, ON, Canada",North America,"Toronto, ON",Canada,CA
-YVR,"Vancouver, BC, Canada",North America,"Vancouver, BC",Canada,CA
-YWG,"Winnipeg, MB, Canada",North America,"Winnipeg, MB",Canada,CA
+PHX,"Phoenix, United States",North America,Phoenix,United States,US
+SDQ,"Santo Domingo, Dominican Republic",North America,Santo Domingo,Dominican Republic,DO
+PIT,"Pittsburgh, United States",North America,Pittsburgh,United States,US
+PDX,"Portland, United States",North America,Portland,United States,US
+QRO,"Queretaro, Mexico",North America,Queretaro,Mexico,MX
+RIC,"Richmond, United States",North America,Richmond,United States,US
+SMF,"Sacramento, United States",North America,Sacramento,United States,US
+SLC,"Salt Lake City, United States",North America,Salt Lake City,United States,US
+SAT,"San Antonio, United States",North America,San Antonio,United States,US
+SAN,"San Diego, United States",North America,San Diego,United States,US
+SFO,"San Francisco, United States",North America,San Francisco,United States,US
+SJC,"San Jose, United States",North America,San Jose,United States,US
+YXE,"Saskatoon, Canada",North America,Saskatoon,Canada,CA
+SEA,"Seattle, United States",North America,Seattle,United States,US
+FSD,"Sioux Falls, United States",North America,Sioux Falls,United States,US
+BGI,"Bridgetown, Barbados",North America,Bridgetown,Barbados,BB
+STL,"St. Louis, United States",North America,St. Louis,United States,US
+TLH,"Tallahassee, United States",North America,Tallahassee,United States,US
+STI,"Santiago de los Caballeros, Dominican Republic",North America,Santiago de los Caballeros,Dominican Republic,DO
+TPA,"Tampa, United States",North America,Tampa,United States,US
+YYZ,"Toronto, Canada",North America,Toronto,Canada,CA
+YVR,"Vancouver, Canada",North America,Vancouver,Canada,CA
+SJU,"San Juan, Puerto Rico",North America,San Juan,Puerto Rico,PR
+YWG,"Winnipeg, Canada",North America,Winnipeg,Canada,CA
 CVG,"Cincinnati, United States",North America,Cincinnati,United States,US

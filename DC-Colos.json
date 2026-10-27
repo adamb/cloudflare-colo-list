@@ -8,15 +8,15 @@
     },
     "ABJ": {
         "city": "Abidjan",
-        "country": "Ivory Coast",
-        "name": "Abidjan, Ivory Coast",
+        "country": "Côte d’Ivoire",
+        "name": "Abidjan, Côte d’Ivoire",
         "region": "Africa"
     },
     "ABQ": {
         "cca2": "US",
-        "city": "Albuquerque, NM",
+        "city": "Albuquerque",
         "country": "United States",
-        "name": "Albuquerque, NM, United States",
+        "name": "Albuquerque, United States",
         "region": "North America"
     },
     "ACC": {
@@ -49,9 +49,9 @@
     },
     "ADL": {
         "cca2": "AU",
-        "city": "Adelaide, SA",
+        "city": "Adelaide",
         "country": "Australia",
-        "name": "Adelaide, SA, Australia",
+        "name": "Adelaide, Australia",
         "region": "Oceania"
     },
     "AGR": {
@@ -80,14 +80,14 @@
         "city": "Aktobe",
         "country": "Kazakhstan",
         "name": "Aktobe, Kazakhstan",
-        "region": "Asia"
+        "region": "Europe"
     },
     "ALA": {
         "cca2": "KZ",
         "city": "Almaty",
         "country": "Kazakhstan",
         "name": "Almaty, Kazakhstan",
-        "region": "Asia"
+        "region": "Europe"
     },
     "ALG": {
         "cca2": "DZ",
@@ -119,9 +119,9 @@
     },
     "ANC": {
         "cca2": "US",
-        "city": "Anchorage, AK",
+        "city": "Anchorage",
         "country": "United States",
-        "name": "Anchorage, AK, United States",
+        "name": "Anchorage, United States",
         "region": "North America"
     },
     "ARI": {
@@ -147,8 +147,8 @@
     },
     "ASK": {
         "city": "Yamoussoukro",
-        "country": "Ivory Coast",
-        "name": "Yamoussoukro, Ivory Coast",
+        "country": "Côte d’Ivoire",
+        "name": "Yamoussoukro, Côte d’Ivoire",
         "region": "Africa"
     },
     "ASU": {
@@ -167,16 +167,16 @@
     },
     "ATL": {
         "cca2": "US",
-        "city": "Atlanta, GA",
+        "city": "Atlanta",
         "country": "United States",
-        "name": "Atlanta, GA, United States",
+        "name": "Atlanta, United States",
         "region": "North America"
     },
     "AUS": {
         "cca2": "US",
-        "city": "Austin, TX",
+        "city": "Austin",
         "country": "United States",
-        "name": "Austin, TX, United States",
+        "name": "Austin, United States",
         "region": "North America"
     },
     "AVA": {
@@ -247,13 +247,13 @@
         "city": "Bridgetown",
         "country": "Barbados",
         "name": "Bridgetown, Barbados",
-        "region": "Latin America & the Caribbean"
+        "region": "North America"
     },
     "BGR": {
         "cca2": "US",
-        "city": "Bangor, ME",
+        "city": "Bangor",
         "country": "United States",
-        "name": "Bangor, ME, United States",
+        "name": "Bangor, United States",
         "region": "North America"
     },
     "BGW": {
@@ -286,9 +286,9 @@
     },
     "BNE": {
         "cca2": "AU",
-        "city": "Brisbane, QLD",
+        "city": "Brisbane",
         "country": "Australia",
-        "name": "Brisbane, QLD, Australia",
+        "name": "Brisbane, Australia",
         "region": "Oceania"
     },
     "BOD": {
@@ -314,9 +314,9 @@
     },
     "BOS": {
         "cca2": "US",
-        "city": "Boston, MA",
+        "city": "Boston",
         "country": "United States",
-        "name": "Boston, MA, United States",
+        "name": "Boston, United States",
         "region": "North America"
     },
     "BRU": {
@@ -384,9 +384,9 @@
     },
     "CBR": {
         "cca2": "AU",
-        "city": "Canberra, ACT",
+        "city": "Canberra",
         "country": "Australia",
-        "name": "Canberra, ACT, Australia",
+        "name": "Canberra, Australia",
         "region": "Oceania"
     },
     "CCU": {
@@ -412,9 +412,9 @@
     },
     "CFC": {
         "cca2": "BR",
-        "city": "Caçador",
+        "city": "Cacador",
         "country": "Brazil",
-        "name": "Caçador, Brazil",
+        "name": "Cacador, Brazil",
         "region": "Latin America & the Caribbean"
     },
     "CGB": {
@@ -482,9 +482,9 @@
     },
     "CLE": {
         "cca2": "US",
-        "city": "Cleveland, OH",
+        "city": "Cleveland",
         "country": "United States",
-        "name": "Cleveland, OH, United States",
+        "name": "Cleveland, United States",
         "region": "North America"
     },
     "CLO": {
@@ -496,9 +496,9 @@
     },
     "CLT": {
         "cca2": "US",
-        "city": "Charlotte, NC",
+        "city": "Charlotte",
         "country": "United States",
-        "name": "Charlotte, NC, United States",
+        "name": "Charlotte, United States",
         "region": "North America"
     },
     "CMB": {
@@ -510,9 +510,9 @@
     },
     "CMH": {
         "cca2": "US",
-        "city": "Columbus, OH",
+        "city": "Columbus",
         "country": "United States",
-        "name": "Columbus, OH, United States",
+        "name": "Columbus, United States",
         "region": "North America"
     },
     "CNF": {
@@ -629,9 +629,9 @@
     },
     "DAR": {
         "cca2": "TZ",
-        "city": "Dar Es Salaam",
+        "city": "Dar es Salaam",
         "country": "Tanzania",
-        "name": "Dar Es Salaam, Tanzania",
+        "name": "Dar es Salaam, Tanzania",
         "region": "Africa"
     },
     "DEL": {
@@ -643,16 +643,16 @@
     },
     "DEN": {
         "cca2": "US",
-        "city": "Denver, CO",
+        "city": "Denver",
         "country": "United States",
-        "name": "Denver, CO, United States",
+        "name": "Denver, United States",
         "region": "North America"
     },
     "DFW": {
         "cca2": "US",
-        "city": "Dallas, TX",
+        "city": "Dallas",
         "country": "United States",
-        "name": "Dallas, TX, United States",
+        "name": "Dallas, United States",
         "region": "North America"
     },
     "DKR": {
@@ -706,9 +706,9 @@
     },
     "DTW": {
         "cca2": "US",
-        "city": "Detroit, MI",
+        "city": "Detroit",
         "country": "United States",
-        "name": "Detroit, MI, United States",
+        "name": "Detroit, United States",
         "region": "North America"
     },
     "DUB": {
@@ -765,13 +765,13 @@
         "city": "Yerevan",
         "country": "Armenia",
         "name": "Yerevan, Armenia",
-        "region": "Asia"
+        "region": "Middle East"
     },
     "EWR": {
         "cca2": "US",
-        "city": "Newark, NJ",
+        "city": "Newark",
         "country": "United States",
-        "name": "Newark, NJ, United States",
+        "name": "Newark, United States",
         "region": "North America"
     },
     "EZE": {
@@ -825,9 +825,9 @@
     },
     "FSD": {
         "cca2": "US",
-        "city": "Sioux Falls, SD",
+        "city": "Sioux Falls",
         "country": "United States",
-        "name": "Sioux Falls, SD, United States",
+        "name": "Sioux Falls, United States",
         "region": "North America"
     },
     "FUK": {
@@ -898,14 +898,14 @@
         "city": "Guatemala City",
         "country": "Guatemala",
         "name": "Guatemala City, Guatemala",
-        "region": "Latin America & the Caribbean"
+        "region": "North America"
     },
     "GUM": {
         "cca2": "GU",
         "city": "Hagatna",
         "country": "Guam",
         "name": "Hagatna, Guam",
-        "region": "Oceania"
+        "region": "Asia"
     },
     "GVA": {
         "cca2": "CH",
@@ -930,16 +930,16 @@
     },
     "GYN": {
         "cca2": "BR",
-        "city": "Goiânia",
+        "city": "Goiania",
         "country": "Brazil",
-        "name": "Goiânia, Brazil",
+        "name": "Goiania, Brazil",
         "region": "Latin America & the Caribbean"
     },
     "HAK": {
         "cca2": "CN",
-        "city": "Haikou",
+        "city": "Chengmai",
         "country": "China",
-        "name": "Haikou, China",
+        "name": "Chengmai, China",
         "region": "Asia"
     },
     "HAM": {
@@ -990,9 +990,9 @@
     },
     "HNL": {
         "cca2": "US",
-        "city": "Honolulu, HI",
+        "city": "Honolulu",
         "country": "United States",
-        "name": "Honolulu, HI, United States",
+        "name": "Honolulu, United States",
         "region": "North America"
     },
     "HRE": {
@@ -1018,16 +1018,16 @@
     },
     "IAD": {
         "cca2": "US",
-        "city": "Ashburn, VA",
+        "city": "Ashburn",
         "country": "United States",
-        "name": "Ashburn, VA, United States",
+        "name": "Ashburn, United States",
         "region": "North America"
     },
     "IAH": {
         "cca2": "US",
-        "city": "Houston, TX",
+        "city": "Houston",
         "country": "United States",
-        "name": "Houston, TX, United States",
+        "name": "Houston, United States",
         "region": "North America"
     },
     "ICN": {
@@ -1039,9 +1039,9 @@
     },
     "IND": {
         "cca2": "US",
-        "city": "Indianapolis, IN",
+        "city": "Indianapolis",
         "country": "United States",
-        "name": "Indianapolis, IN, United States",
+        "name": "Indianapolis, United States",
         "region": "North America"
     },
     "ISB": {
@@ -1074,9 +1074,9 @@
     },
     "JAX": {
         "cca2": "US",
-        "city": "Jacksonville, FL",
+        "city": "Jacksonville",
         "country": "United States",
-        "name": "Jacksonville, FL, United States",
+        "name": "Jacksonville, United States",
         "region": "North America"
     },
     "JDO": {
@@ -1102,9 +1102,9 @@
     },
     "JIB": {
         "cca2": "DJ",
-        "city": "Djibouti City",
+        "city": "Djibouti",
         "country": "Djibouti",
-        "name": "Djibouti City, Djibouti",
+        "name": "Djibouti, Djibouti",
         "region": "Africa"
     },
     "JNB": {
@@ -1183,9 +1183,9 @@
     },
     "KHN": {
         "cca2": "CN",
-        "city": "Xinyu",
+        "city": "Nanchang",
         "country": "China",
-        "name": "Xinyu, China",
+        "name": "Nanchang, China",
         "region": "Asia"
     },
     "KIN": {
@@ -1260,16 +1260,16 @@
     },
     "LAS": {
         "cca2": "US",
-        "city": "Las Vegas, NV",
+        "city": "Las Vegas",
         "country": "United States",
-        "name": "Las Vegas, NV, United States",
+        "name": "Las Vegas, United States",
         "region": "North America"
     },
     "LAX": {
         "cca2": "US",
-        "city": "Los Angeles, CA",
+        "city": "Los Angeles",
         "country": "United States",
-        "name": "Los Angeles, CA, United States",
+        "name": "Los Angeles, United States",
         "region": "North America"
     },
     "LCA": {
@@ -1428,9 +1428,9 @@
     },
     "MCI": {
         "cca2": "US",
-        "city": "Kansas City, MO",
+        "city": "Kansas City",
         "country": "United States",
-        "name": "Kansas City, MO, United States",
+        "name": "Kansas City, United States",
         "region": "North America"
     },
     "MCT": {
@@ -1449,16 +1449,16 @@
     },
     "MEL": {
         "cca2": "AU",
-        "city": "Melbourne, VIC",
+        "city": "Melbourne",
         "country": "Australia",
-        "name": "Melbourne, VIC, Australia",
+        "name": "Melbourne, Australia",
         "region": "Oceania"
     },
     "MEM": {
         "cca2": "US",
-        "city": "Memphis, TN",
+        "city": "Memphis",
         "country": "United States",
-        "name": "Memphis, TN, United States",
+        "name": "Memphis, United States",
         "region": "North America"
     },
     "MEX": {
@@ -1474,23 +1474,23 @@
     },
     "MIA": {
         "cca2": "US",
-        "city": "Miami, FL",
+        "city": "Miami",
         "country": "United States",
-        "name": "Miami, FL, United States",
+        "name": "Miami, United States",
         "region": "North America"
     },
     "MLA": {
         "cca2": "MT",
-        "city": "Santa Venera",
+        "city": "Valletta",
         "country": "Malta",
-        "name": "Santa Venera, Malta",
+        "name": "Valletta, Malta",
         "region": "Europe"
     },
     "MLE": {
         "cca2": "MV",
-        "city": "Malé",
+        "city": "Male",
         "country": "Maldives",
-        "name": "Malé, Maldives",
+        "name": "Male, Maldives",
         "region": "Asia"
     },
     "MLG": {
@@ -1530,9 +1530,9 @@
     },
     "MSP": {
         "cca2": "US",
-        "city": "Minneapolis, MN",
+        "city": "Minneapolis",
         "country": "United States",
-        "name": "Minneapolis, MN, United States",
+        "name": "Minneapolis, United States",
         "region": "North America"
     },
     "MSQ": {
@@ -1586,9 +1586,9 @@
     },
     "NQN": {
         "cca2": "AR",
-        "city": "Neuquén",
+        "city": "Neuquen",
         "country": "Argentina",
-        "name": "Neuquén, Argentina",
+        "name": "Neuquen, Argentina",
         "region": "Latin America & the Caribbean"
     },
     "NQZ": {
@@ -1607,9 +1607,9 @@
     },
     "NVT": {
         "cca2": "BR",
-        "city": "Timbó",
+        "city": "Timbo",
         "country": "Brazil",
-        "name": "Timbó, Brazil",
+        "name": "Timbo, Brazil",
         "region": "Latin America & the Caribbean"
     },
     "OKA": {
@@ -1621,30 +1621,30 @@
     },
     "OKC": {
         "cca2": "US",
-        "city": "Oklahoma City, OK",
+        "city": "Oklahoma City",
         "country": "United States",
-        "name": "Oklahoma City, OK, United States",
+        "name": "Oklahoma City, United States",
         "region": "North America"
     },
     "OMA": {
         "cca2": "US",
-        "city": "Omaha, NE",
+        "city": "Omaha",
         "country": "United States",
-        "name": "Omaha, NE, United States",
+        "name": "Omaha, United States",
         "region": "North America"
     },
     "ORD": {
         "cca2": "US",
-        "city": "Chicago, IL",
+        "city": "Chicago",
         "country": "United States",
-        "name": "Chicago, IL, United States",
+        "name": "Chicago, United States",
         "region": "North America"
     },
     "ORF": {
         "cca2": "US",
-        "city": "Norfolk, VA",
+        "city": "Norfolk",
         "country": "United States",
-        "name": "Norfolk, VA, United States",
+        "name": "Norfolk, United States",
         "region": "North America"
     },
     "ORN": {
@@ -1698,16 +1698,16 @@
     },
     "PDX": {
         "cca2": "US",
-        "city": "Portland, OR",
+        "city": "Portland",
         "country": "United States",
-        "name": "Portland, OR, United States",
+        "name": "Portland, United States",
         "region": "North America"
     },
     "PER": {
         "cca2": "AU",
-        "city": "Perth, WA",
+        "city": "Perth",
         "country": "Australia",
-        "name": "Perth, WA, Australia",
+        "name": "Perth, Australia",
         "region": "Oceania"
     },
     "PHL": {
@@ -1719,23 +1719,23 @@
     },
     "PHX": {
         "cca2": "US",
-        "city": "Phoenix, AZ",
+        "city": "Phoenix",
         "country": "United States",
-        "name": "Phoenix, AZ, United States",
+        "name": "Phoenix, United States",
         "region": "North America"
     },
     "PIT": {
         "cca2": "US",
-        "city": "Pittsburgh, PA",
+        "city": "Pittsburgh",
         "country": "United States",
-        "name": "Pittsburgh, PA, United States",
+        "name": "Pittsburgh, United States",
         "region": "North America"
     },
     "PKX": {
         "cca2": "CN",
-        "city": "Langfang",
+        "city": "Beijing",
         "country": "China",
-        "name": "Langfang, China",
+        "name": "Beijing, China",
         "region": "Asia"
     },
     "PMO": {
@@ -1774,9 +1774,10 @@
         "region": "Latin America & the Caribbean"
     },
     "POS": {
+        "cca2": "TT",
         "city": "Port of Spain",
-        "country": "Trinidad and Tobago",
-        "name": "Port of Spain, Trinidad and Tobago",
+        "country": "Trinidad & Tobago",
+        "name": "Port of Spain, Trinidad & Tobago",
         "region": "Latin America & the Caribbean"
     },
     "PPT": {
@@ -1787,9 +1788,10 @@
         "region": "Oceania"
     },
     "PRG": {
+        "cca2": "CZ",
         "city": "Prague",
-        "country": "Czech Republic",
-        "name": "Prague, Czech Republic",
+        "country": "Czechia",
+        "name": "Prague, Czechia",
         "region": "Europe"
     },
     "PRN": {
@@ -1807,9 +1809,9 @@
     },
     "QRO": {
         "cca2": "MX",
-        "city": "Queretaro, MX",
+        "city": "Queretaro",
         "country": "Mexico",
-        "name": "Queretaro, MX, Mexico",
+        "name": "Queretaro, Mexico",
         "region": "North America"
     },
     "QWJ": {
@@ -1828,9 +1830,9 @@
     },
     "RDU": {
         "cca2": "US",
-        "city": "Durham, NC",
+        "city": "Durham",
         "country": "United States",
-        "name": "Durham, NC, United States",
+        "name": "Durham, United States",
         "region": "North America"
     },
     "REC": {
@@ -1842,9 +1844,9 @@
     },
     "RIC": {
         "cca2": "US",
-        "city": "Richmond, VA",
+        "city": "Richmond",
         "country": "United States",
-        "name": "Richmond, VA, United States",
+        "name": "Richmond, United States",
         "region": "North America"
     },
     "RIX": {
@@ -1869,9 +1871,9 @@
     },
     "SAN": {
         "cca2": "US",
-        "city": "San Diego, CA",
+        "city": "San Diego",
         "country": "United States",
-        "name": "San Diego, CA, United States",
+        "name": "San Diego, United States",
         "region": "North America"
     },
     "SAP": {
@@ -1883,9 +1885,9 @@
     },
     "SAT": {
         "cca2": "US",
-        "city": "San Antonio, TX",
+        "city": "San Antonio",
         "country": "United States",
-        "name": "San Antonio, TX, United States",
+        "name": "San Antonio, United States",
         "region": "North America"
     },
     "SCL": {
@@ -1900,20 +1902,20 @@
         "city": "Santo Domingo",
         "country": "Dominican Republic",
         "name": "Santo Domingo, Dominican Republic",
-        "region": "Latin America & the Caribbean"
+        "region": "North America"
     },
     "SEA": {
         "cca2": "US",
-        "city": "Seattle, WA",
+        "city": "Seattle",
         "country": "United States",
-        "name": "Seattle, WA, United States",
+        "name": "Seattle, United States",
         "region": "North America"
     },
     "SFO": {
         "cca2": "US",
-        "city": "San Francisco, CA",
+        "city": "San Francisco",
         "country": "United States",
-        "name": "San Francisco, CA, United States",
+        "name": "San Francisco, United States",
         "region": "North America"
     },
     "SGN": {
@@ -1939,9 +1941,9 @@
     },
     "SJC": {
         "cca2": "US",
-        "city": "San Jose, CA",
+        "city": "San Jose",
         "country": "United States",
-        "name": "San Jose, CA, United States",
+        "name": "San Jose, United States",
         "region": "North America"
     },
     "SJK": {
@@ -1970,7 +1972,7 @@
         "city": "San Juan",
         "country": "Puerto Rico",
         "name": "San Juan, Puerto Rico",
-        "region": "Latin America & the Caribbean"
+        "region": "North America"
     },
     "SJW": {
         "cca2": "CN",
@@ -1987,24 +1989,23 @@
         "region": "Europe"
     },
     "SKP": {
-        "cca2": "MK",
         "city": "Skopje",
-        "country": "North Macedonia",
-        "name": "Skopje, North Macedonia",
+        "country": "Macedonia",
+        "name": "Skopje, Macedonia",
         "region": "Europe"
     },
     "SLC": {
         "cca2": "US",
-        "city": "Salt Lake City, UT",
+        "city": "Salt Lake City",
         "country": "United States",
-        "name": "Salt Lake City, UT, United States",
+        "name": "Salt Lake City, United States",
         "region": "North America"
     },
     "SMF": {
         "cca2": "US",
-        "city": "Sacramento, CA",
+        "city": "Sacramento",
         "country": "United States",
-        "name": "Sacramento, CA, United States",
+        "name": "Sacramento, United States",
         "region": "North America"
     },
     "SOD": {
@@ -2033,13 +2034,13 @@
         "city": "Santiago de los Caballeros",
         "country": "Dominican Republic",
         "name": "Santiago de los Caballeros, Dominican Republic",
-        "region": "Latin America & the Caribbean"
+        "region": "North America"
     },
     "STL": {
         "cca2": "US",
-        "city": "St. Louis, MO",
+        "city": "St. Louis",
         "country": "United States",
-        "name": "St. Louis, MO, United States",
+        "name": "St. Louis, United States",
         "region": "North America"
     },
     "STR": {
@@ -2058,9 +2059,9 @@
     },
     "SYD": {
         "cca2": "AU",
-        "city": "Sydney, NSW",
+        "city": "Sydney",
         "country": "Australia",
-        "name": "Sydney, NSW, Australia",
+        "name": "Sydney, Australia",
         "region": "Oceania"
     },
     "SZX": {
@@ -2107,9 +2108,9 @@
     },
     "TLH": {
         "cca2": "US",
-        "city": "Tallahassee, FL",
+        "city": "Tallahassee",
         "country": "United States",
-        "name": "Tallahassee, FL, United States",
+        "name": "Tallahassee, United States",
         "region": "North America"
     },
     "TLL": {
@@ -2142,9 +2143,9 @@
     },
     "TPA": {
         "cca2": "US",
-        "city": "Tampa, FL",
+        "city": "Tampa",
         "country": "United States",
-        "name": "Tampa, FL, United States",
+        "name": "Tampa, United States",
         "region": "North America"
     },
     "TPE": {
@@ -2174,9 +2175,9 @@
     },
     "UDI": {
         "cca2": "BR",
-        "city": "Uberlândia",
+        "city": "Uberlandia",
         "country": "Brazil",
-        "name": "Uberlândia, Brazil",
+        "name": "Uberlandia, Brazil",
         "region": "Latin America & the Caribbean"
     },
     "UDR": {
@@ -2307,44 +2308,44 @@
     },
     "YUL": {
         "cca2": "CA",
-        "city": "Montréal, QC",
+        "city": "Montréal",
         "country": "Canada",
-        "name": "Montréal, QC, Canada",
+        "name": "Montréal, Canada",
         "region": "North America"
     },
     "YVR": {
         "cca2": "CA",
-        "city": "Vancouver, BC",
+        "city": "Vancouver",
         "country": "Canada",
-        "name": "Vancouver, BC, Canada",
+        "name": "Vancouver, Canada",
         "region": "North America"
     },
     "YWG": {
         "cca2": "CA",
-        "city": "Winnipeg, MB",
+        "city": "Winnipeg",
         "country": "Canada",
-        "name": "Winnipeg, MB, Canada",
+        "name": "Winnipeg, Canada",
         "region": "North America"
     },
     "YXE": {
         "cca2": "CA",
-        "city": "Saskatoon, SK",
+        "city": "Saskatoon",
         "country": "Canada",
-        "name": "Saskatoon, SK, Canada",
+        "name": "Saskatoon, Canada",
         "region": "North America"
     },
     "YYC": {
         "cca2": "CA",
-        "city": "Calgary, AB",
+        "city": "Calgary",
         "country": "Canada",
-        "name": "Calgary, AB, Canada",
+        "name": "Calgary, Canada",
         "region": "North America"
     },
     "YYZ": {
         "cca2": "CA",
-        "city": "Toronto, ON",
+        "city": "Toronto",
         "country": "Canada",
-        "name": "Toronto, ON, Canada",
+        "name": "Toronto, Canada",
         "region": "North America"
     },
     "ZAG": {
