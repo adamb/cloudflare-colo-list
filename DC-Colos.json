@@ -788,6 +788,13 @@
         "name": "Rome, Italy",
         "region": "Europe"
     },
+    "FIH": {
+        "cca2": "CD",
+        "city": "Kinshasa",
+        "country": "Congo - Kinshasa",
+        "name": "Kinshasa, Congo - Kinshasa",
+        "region": "Africa"
+    },
     "FLN": {
         "cca2": "BR",
         "city": "Florianopolis",
